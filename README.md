@@ -1,45 +1,159 @@
-# The-Bone-clock
-The Bone Clock es un juego de plataformas en el que el jugador controla a un esqueleto que debe encontrar y destruir un reloj antes de que se agote el tiempo. El juego presenta una mecánica de tiempo limitado, en la que el jugador tiene un tiempo específico para completar cada nivel. 
+# ⏰ The Bone Clock
 
+<div align="center">
 
-## Características
+![The Bone Clock Banner](https://img.shields.io/badge/The%20Bone%20Clock-2D%20Platformer-red?style=for-the-badge&logo=skull)
 
-- Jugabilidad de plataformas 2D
-- Diseño de niveles interesante
-- Diferentes tipos de obstáculos y trampas
-- Coleccionables para aumentar el tiempo y vidas adicionales
-- Jefe final desafiante
-- Juego Open Source
+**Un juego de plataformas 2D donde el tiempo es tu enemigo más mortal**
 
-## Instalación
+[![Open Source](https://img.shields.io/badge/Open%20Source-�-brightgreen?style=flat-square)](https://github.com/cvoult-node/The-Bone-clock)
+[![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)](https://python.org)
+[![Pygame](https://img.shields.io/badge/Pygame-Required-orange?style=flat-square)](https://pygame.org)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
-1. Clona el repositorio: `git clone https://github.com/STYGames/TheBoneClock.git`
-2. Navega a la carpeta del proyecto: `cd TheBoneClock`
-3. Ejecuta el archivo de juego: `python main.py`
+</div>
+
+---
+
+## Historia
+
+Eres un **esqueleto viviente** atrapado en una dimensión temporal maldita. El **Reloj de Hueso** cuenta hacia atrás, y cuando llegue a cero, tu alma será condenada para la eternidad. Tu única esperanza: encontrar y destruir el reloj antes de que marque tu final definitivo.
+
+**Desarrollado por CuriosVoult** - Una aventura donde cada segundo cuenta.
+
+---
+
+## ✨ Características Principales
+
+> **Gameplay Clásico Renovado**
+- Controles de plataformas 2D ultra-responsivos
+- Física precisa para saltos y movimientos fluidos
+
+> ⏱️ **Tensión Constante**
+- Sistema de tiempo límite que mantiene la adrenalina al máximo
+- La cuenta regresiva nunca para... ¿podrás vencerla?
+
+> **Diseño Artesanal**
+- Niveles diseñados a mano con obstáculos únicos
+- Estilo visual retro con una atmósfera oscura y envolvente
+
+> **Coleccionables Estratégicos**
+- Gemas temporales que extienden tu tiempo de vida
+- Vidas extra ocultas en los rincones más peligrosos
+
+> **Jefes Épicos**
+- Enfréntate a jefes finales con mecánicas especiales únicas
+- Cada enfrentamiento requiere estrategia y precisión
+
+> **Código Abierto**
+- Proyecto completamente open source
+- ¡Contribuye y ayuda a hacer crecer el juego!
+
+---
+
+## Instalación Rápida
+
+### Prerrequisitos
+- **Python 3.x** instalado en tu sistema
+- **Pygame** (se instala automáticamente)
+
+### Pasos de Instalación
+
+```bash
+# 1. Clona el repositorio
+git clone https://github.com/cvoult-node/The-Bone-clock.git
+
+# 2. Navega al directorio del juego
+cd The-Bone-clock
+
+# 3. Instala las dependencias
+pip install pygame
+
+# 4. ¡Ejecuta el juego y prepárate para la aventura!
+python main.py
+```
+
+---
 
 ## Controles
 
-- `←` para moverse a la izquierda.
-- `→` para moverse a la derecha.
-- `↑` para saltar.
-- `Barra espaciadora` para atacar.
+<div align="center">
 
-## Contribuyendo
+| � **Acción** | ⌨️ **Tecla** | � **Descripción** |
+|:-------------:|:------------:|:-------------------|
+| Mover izquierda | `←` | Mueve al esqueleto hacia la izquierda |
+| Mover derecha | `→` | Mueve al esqueleto hacia la derecha |
+| Saltar | `↑` | Salta sobre obstáculos y plataformas |
+| Atacar | `Espacio` | Ataca a enemigos y destruye obstáculos |
 
-Si deseas contribuir al proyecto, por favor sigue los siguientes pasos:
+</div>
 
-1. Haz un fork del repositorio.
-2. Crea una nueva rama: `git checkout -b feature/nueva-funcion`
-3. Haz tus cambios y realiza un commit: `git commit -am 'Agregar nueva función'`
-4. Empuja tus cambios a la rama: `git push origin feature/nueva-funcion`
-5. Envía una pull request.
+---
+
+## Contribuciones
+
+¡Tu creatividad puede hacer que **The Bone Clock** sea aún más épico! Sigue estos pasos para contribuir:
+
+### Proceso de Contribución
+
+1. **Fork** el repositorio en GitHub
+2. **Crea una nueva rama** para tu característica:
+   ```bash
+   git checkout -b feature/mi-nueva-caracteristica
+   ```
+3. **Desarrolla tu idea** y haz commits descriptivos:
+   ```bash
+   git commit -am "✨ Agregar nueva mecánica de doble salto"
+   ```
+4. **Sube tus cambios** a tu fork:
+   ```bash
+   git push origin feature/mi-nueva-caracteristica
+   ```
+5. **Crea un Pull Request** detallando tus cambios
+
+### Ideas para Contribuir
+- Nuevas pistas de música
+- Niveles adicionales
+- Nuevos tipos de enemigos
+- Mejoras visuales
+- Corrección de bugs
+- Documentación mejorada
+
+---
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Ver archivo `LICENSE` para más detalles.
+Este proyecto está licenciado bajo la **Licencia MIT** - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-## Créditos
+---
 
-- Desarrollador principal: CuriosVault
-- Arte y diseño: Pixivideos y Jesse Munguia
-- Música y efectos de sonido: CuriosVoult
+## Créditos del Equipo
+
+<div align="center">
+
+### **El Equipo Detrás de la Magia**
+
+| **Rol** | **Persona** | **Contribución** |
+|:----------:|:--------------:|:-------------------|
+| **Desarrollador Principal** | **CuriosVoult** | Programación, diseño de juego y mecánicas |
+| **Arte y Diseño** | **Pixivideos & Jesse Munguia** | Sprites, animaciones y diseño visual |
+| **Audio** | **CuriosVoult** | Música atmosférica y efectos de sonido |
+
+</div>
+
+---
+
+<div align="center">
+
+## ¿Estás listo para desafiar al tiempo? 
+
+**[⬇️ Descargar The Bone Clock](https://github.com/cvoult-node/The-Bone-clock)**
+
+---
+
+*"El tiempo no perdona... pero tú puedes vencerlo."*
+
+[![GitHub stars](https://img.shields.io/github/stars/cvoult-node/The-Bone-clock?style=social)](https://github.com/cvoult-node/The-Bone-clock)
+[![GitHub forks](https://img.shields.io/github/forks/cvoult-node/The-Bone-clock?style=social)](https://github.com/cvoult-node/The-Bone-clock)
+
+</div>
