@@ -6,9 +6,9 @@
 
 **Un juego de plataformas 2D donde el tiempo es tu enemigo más mortal**
 
-[![Open Source](https://img.shields.io/badge/Open%20Source-�-brightgreen?style=flat-square)](https://github.com/cvoult-node/The-Bone-clock)
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)](https://python.org)
-[![Pygame](https://img.shields.io/badge/Pygame-Required-orange?style=flat-square)](https://pygame.org)
+[![Open Source](https://img.shields.io/badge/Open%20Source-🦴-brightgreen?style=flat-square)](https://github.com/cvoult-node/The-Bone-clock)
+[![GDevelop](https://img.shields.io/badge/GDevelop-5.x-blue?style=flat-square&logo=gdevelop)](https://gdevelop.io)
+[![HTML5](https://img.shields.io/badge/HTML5-Ready-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 </div>
