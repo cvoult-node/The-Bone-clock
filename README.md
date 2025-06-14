@@ -54,8 +54,25 @@ Eres un **esqueleto viviente** atrapado en una dimensión temporal maldita. El *
 ## Instalación Rápida
 
 ### Prerrequisitos
-- **Python 3.x** instalado en tu sistema
-- **Pygame** (se instala automáticamente)
+- **GDevelop 5** instalado en tu sistema
+- **Navegador web moderno** (Chrome, Firefox, Safari)
+
+### Pasos de Instalación
+
+```bash
+# 1. Clona el repositorio
+git clone https://github.com/cvoult-node/The-Bone-clock.git
+
+# 2. Navega al directorio del juego
+cd The-Bone-clock
+
+# 3. Abre el proyecto en GDevelop
+# - Abre GDevelop 5
+# - Selecciona "Abrir un proyecto"
+# - Navega y selecciona el archivo del proyecto (.json)
+
+# 4. ¡Ejecuta el juego desde GDevelop o exporta para web!
+```
 
 ### Pasos de Instalación
 
